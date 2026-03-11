@@ -65,5 +65,5 @@
     </a>
   </p>
   <br>
-  <sub>Crafted with ❤️ by Ankit Kumar Maurya</sub>
+  <sub>Crafted with ❤️ by Ankit Maurya</sub>
 </div>
