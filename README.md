@@ -13,7 +13,6 @@
 
 - 🎓 **Education:** Pursuing an M.Tech (Research) in Intelligent Systems at **IIT Mandi**.
 - 🔬 **Research Focus:** Low-resource ASR (specifically Burmese), LLM fine-tuning, speech enhancement (HDemucs, MetricGAN+), and agentic workflows.
-- 💻 **Infrastructure:** Experienced in multi-GPU training and deploying models (vLLM, Ollama) on NVIDIA A6000 clusters.
 
 
 ---
