@@ -35,7 +35,7 @@
 - **LiveQ:** A real-time classroom assistant generating questions directly from lecture audio.
 - **ViBhasa:** A 165M parameter Small Language Model trained entirely from scratch.
 - **Burmese ASR & Speech Enhancement:** Fine-tuning Whisper and Wav2Vec-BERT, incorporating robust noise reduction and cut-speech correction via agentic workflows.
-- **CyberBench:** Evaluating model robustness and performance on cybersecurity benchmarks.
+
 
 ---
 
