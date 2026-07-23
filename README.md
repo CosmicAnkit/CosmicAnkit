@@ -101,7 +101,6 @@ I'm open for opportunities in Foundation Models, Multilingual NLP, and Language 
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://scholar.google.com/">
+<a href="https://scholar.google.com/citations?user=moUY770AAAAJ&hl=en">
 <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
-</a>
 </p>
